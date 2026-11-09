@@ -1,9 +1,5 @@
 # 🤖 Simulador de Inteligencia Artificial Distribuida (Multi-Agente)
 
-![Python](https://shields.io)
-![License](https://shields.io)
-![Build](https://shields.io)
-
 Este proyecto es un aplicativo didáctico interactivo que implementa un **Sistema Multi-Agente (SMA)** para demostrar los conceptos fundamentales de la **Inteligencia Artificial Distribuida (IAD)** y la computación en el borde (*Edge Computing*).
 
 A través de una interfaz gráfica sencilla, el sistema simula cómo una flota de robots autónomos puede coordinarse, negociar y tomar decisiones descentralizadas sin depender de un servidor inteligente central.
@@ -33,7 +29,7 @@ El núcleo del aplicativo rompe con el paradigma de control centralizado basánd
 
 No necesitas tener Python instalado para probar esta simulación. Puedes ejecutar el aplicativo directamente en tu computadora siguiendo estos pasos:
 
-1. Ve a la sección de **[Releases](enlace-a-tus-releases-aqui)** a la derecha de este repositorio.
+1. Ve a la sección de **[Releases](https://github.com/Andr3s-netizen/Asistente_IA_Distribuida/releases/tag/IA_Distribuida)** a la derecha de este repositorio.
 2. Descarga el archivo ejecutable comprimido (ej. `ia_distribuida_gui.exe`).
 3. Haz doble clic sobre el archivo descargado para iniciar el simulador de forma inmediata.
 
@@ -62,7 +58,7 @@ Si prefieres auditar o modificar el código, asegúrate de contar con Python 3.9
 
 Para empaquetar este proyecto en un archivo independiente portable, se utilizó la herramienta `auto-py-to-exe`. Si deseas replicar el proceso, utiliza la siguiente configuración:
 
-* **Script Path:** Selecciona tu archivo `ia_distribuida_gui.py`.
+* **Script Path:** Selecciona tu archivo `ia_distribuida_app.py`.
 * **One File / One Directory:** Selecciona **One File** (para compilar todo en un único archivo ejecutable).
 * **Console Window:** Selecciona **Window Based (hide the console)** (para que solo se muestre la interfaz gráfica estilizada del programa).
 
