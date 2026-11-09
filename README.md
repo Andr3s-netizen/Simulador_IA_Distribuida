@@ -49,7 +49,7 @@ Si prefieres auditar o modificar el código, asegúrate de contar con Python 3.9
    ```
 3. Ejecuta el script principal:
    ```bash
-   python ia_distribuida_gui.py
+   python ia_distribuida_app.py
    ```
 
 ---
